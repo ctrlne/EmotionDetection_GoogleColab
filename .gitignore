@@ -1,0 +1,14 @@
+# Ignore Kaggle API key
+kaggle.json
+
+# Ignore Colab notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore large datasets
+*.csv
+*.zip
+*.h5
+
+# Ignore system files
+.DS_Store
+Thumbs.db
