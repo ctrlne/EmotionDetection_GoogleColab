@@ -36,5 +36,4 @@ Used a Kaggle emotion dataset.
 Do **not** upload your real `kaggle.json` or any private API keys publicly. Consider adding it to `.gitignore` and keeping it secure.
 
 ## 📬 Contact
-Made by [ctr1ne](https://github.com/ctr1ne)  
 Feel free to reach out for collab or feedback!
