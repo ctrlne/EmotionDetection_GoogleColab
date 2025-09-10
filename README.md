@@ -21,7 +21,7 @@ This project uses a supervised machine learning model to detect emotions from te
 ## 📁 Files Included
 - `Untitled7.ipynb`: Main notebook for training and testing the emotion detection model
 - `Google Colab_CAMendoza.pdf`: Project documentation/report
-- `kaggle.json`: API token for accessing Kaggle datasets (⚠️ not recommended to share publicly)
+- `kaggle.json`: API token for accessing Kaggle datasets (⚠️ not recommended to share publicly, but the pushed json is only as a reference.)
 
 ## 📦 Dataset
 Used a Kaggle emotion dataset.  
@@ -31,9 +31,6 @@ Used a Kaggle emotion dataset.
 1. Upload your own `kaggle.json` to your Colab environment.
 2. Run the notebook (`Untitled7.ipynb`) on Google Colab.
 3. Modify the input text to test emotion predictions.
-
-## 🛡️ Disclaimer
-Do **not** upload your real `kaggle.json` or any private API keys publicly. Consider adding it to `.gitignore` and keeping it secure.
 
 ## 📬 Contact
 Feel free to reach out for collab or feedback!
